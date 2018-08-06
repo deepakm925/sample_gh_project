@@ -1,14 +1,14 @@
 #### Date created
-Include the date you created this project and README file.
+August 5, 2018
 
 ### Project Title
-Replace the Project Title
+Github test project
 
 ### Description
-Describe what your project is about and what it does
+The purpose of this project is to understand knowledge of using Github and Git commands. 
 
 ### Files used
-Include the files used
+`Githubtestproject.ipynb`
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Credits to owner Deepak Mahtani
